@@ -37,6 +37,7 @@ Click Issue Vehicle to spawn the vehicle on the spawn point.
 - Lecks - Author
 - ASOR for helping to iron out most of the bugs and problems.
 - MCPC10 - added support for UAV's
+- Majestic44 - added limit vehicle quantity (WIP)
 
 
 ## License / Disclaimer:
